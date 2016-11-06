@@ -1,0 +1,40 @@
+PCIe-SSD
+"Intel® SSD 750 Series 1.2TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMW012T4X1", "1,099.00", "1.2TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "70GB per day127TB Written", "1.2 million hours MTBF", "440,000 IOPS", "290,000 IOPS", "2,400 MB/s", "1,200 MB/s", "20nm MLC"
+PCIe-SSD
+"Intel® SSD 750 Series 400GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMW400G4X1", "399.00", "400GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "70GB per day127TB Written", "1.2 million hours MTBF", "430,000 IOPS", "230,000 IOPS", "2,200 MB/s", "900 MB/s", "20nm MLC"
+PCIe-SSD
+"Intel® SSD 750 Series 800GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMW800G4X1", "749.00", "800GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "70GB per day127TB Written", "1.2 million hours MTBF", "420,000 IOPS", "210,000 IOPS", "2,100 MB/s", "800 MB/s", "20nm MLC"
+PCIe-SSD
+"Intel® SSD DC P3500 Series 1.2TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMX012T401", "1,249.00", "1.2TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "undefined", "2 million hours MTBF", "420,000 IOPS", "23,000 IOPS", "2,600 MB/s", "1,200 MB/s", "20nm MLC"
+PCIe-SSD
+"Intel® SSD DC P3500 Series 2.0TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMX020T401", "1,999.00", "2.0TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "undefined", "2 million hours MTBF", "430,000 IOPS", "28,000 IOPS", "2,700 MB/s", "1,800 MB/s", "20nm MLC"
+PCIe-SSD
+"Intel® SSD DC P3500 Series 400GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMX400G401", "499.00", "400GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "undefined", "2 million hours MTBF", "420,000 IOPS", "23,000 IOPS", "2,200 MB/s", "1,000 MB/s", "20nm MLC"
+PCIe-SSD
+"Intel® SSD DC P3520 Series 1.2TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMX012T701", "743.00", "1.2TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "1480 TBW", "2 million hours (MTBF)", "320,000 IOPS", "26,000 IOPS", "1,700 MB/s", "1,300 MB/s", "3D NAND G1 MLC"
+PCIe-SSD
+"Intel® SSD DC P3520 Series 2.0TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMX020T701", "1,196.00", "2.0TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "2490 TBW", "2 million hours (MTBF)", "375,000 IOPS", "26,000 IOPS", "1,700 MB/s", "1,350 MB/s", "3D NAND"
+PCIe-SSD
+"Intel® SSD DC P3600 Series 1.2TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDME012T401", "1,499.00", "1.2TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "6.57PB Written", "2 million hours MTBF", "450,000 IOPS", "50,000 IOPS", "2,600 MB/s", "1,250 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3600 Series 1.6TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDME016T401", "1,999.00", "1.6TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "8.76PB Written", "2 million hours MTBF", "450,000 IOPS", "56,000 IOPS", "2,600 MB/s", "1,600 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3600 Series 2.0TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDME020T401", "2,499.00", "2.0TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "10.95PB Written", "2 million hours MTBF", "450,000 IOPS", "56,000 IOPS", "2,600 MB/s", "1,600 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3600 Series 400GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDME400G401", "619.00", "400GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "2.19PB Written", "2 million hours MTBF", "320,000 IOPS", "30,000 IOPS", "2,100 MB/s", "550 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3600 Series 800GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDME800G401", "999.00", "800GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "4.38PB Written", "2 million hours MTBF", "430,000 IOPS", "50,000 IOPS", "2,600 MB/s", "1,000 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3608 Series 1.6TB PCIe 3.0 x8 NVMe Solid State Addon Card", "SSDPECME016T401", "3,799.00", "1.6TB", "Add-in Card (AIC)", "PCIe 3.0 x8 NVMe", "8.76PB Written", "1 million hours MTBF", "850,000 IOPS", "150,000 IOPS", "5000 MB/s", "2000 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3608 Series 3.2TB PCIe 3.0 x8 NVMe Solid State Addon Card", "SSDPECME032T401", "7,599.00", "3.2TB", "Add-in Card (AIC)", "PCIe 3.0 x8 NVMe", "17.52PB Written", "1 million hours MTBF", "850,000 IOPS", "80,000 IOPS", "4500 MB/s", "2600 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3608 Series 4.0TB PCIe 3.0 x8 NVMe Solid State Addon Card", "SSDPECME040T401", "8,999.00", "4.0TB", "Add-in Card (AIC)", "PCIe 3.0 x8 NVMe", "21.9PB Written", "1 million hours MTBF", "850,000 IOPS", "50,000 IOPS", "5000 MB/s", "3000 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3700 Series 1.6TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMD016T401", "3,599.00", "1.6TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "43.8PB Written", "2 million hours MTBF", "450,000 IOPS", "150,000 IOPS", "2,800 MB/s", "1,900 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3700 Series 2.0TB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMD020T401", "4,499.00", "2.0TB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "60.0PB Written", "2 million hours MTBF", "450,000 IOPS", "175,000 IOPS", "2,800 MB/s", "1,900 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3700 Series 400GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMD400G401", "999.00", "400GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "7.3PB Written", "2 million hours MTBF", "450,000 IOPS", "75,000 IOPS", "2,700 MB/s", "1,080 MB/s", "20nm MLC HET"
+PCIe-SSD
+"Intel® SSD DC P3700 Series 800GB PCIe 3.0 x4 NVMe Solid State Addon Card", "SSDPEDMD800G401", "1,999.00", "800GB", "Add-in Card (AIC)", "PCIe 3.0 x4 NVMe", "14.6PB Written", "2 million hours MTBF", "460,000 IOPS", "90,000 IOPS", "2,800 MB/s", "1,900 MB/s", "20nm MLC HET"
