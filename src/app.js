@@ -45,9 +45,3 @@ service.getPageCount(url.parse(link)).then(count => {
 		console.log(out.join(","))
 	})
 })
-
-/*
-let ssdKeys = ["Product Type", "Storage Capacity", "Form Factor", "Interface", "Series", "Lifetime Endurance", "Life Expectancy", "Read IOPS", "Write IOPS", "Read Speed", "Write Speed", "NAND"]
-service.getProductDetailsOnPage(url.parse(link), ssdKeys).then((d)=> console.log(d))
-// ssd keys i would like in a report -- price is always given
-*/
