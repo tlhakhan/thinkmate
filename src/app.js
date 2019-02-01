@@ -12,7 +12,7 @@ let ssdKeys = ["Product Type", "Storage Capacity", "Form Factor", "Interface", "
 
 service.getPageCount(url.parse(link)).then(count => {
 	let pageLinks = []
-	for (let i = 1; i <= 1; i++) {
+	for (let i = 1; i <= count; i++) {
 		pageLinks.push(format("%s?p=%s", link, i))
 	}
 	return pageLinks
@@ -40,7 +40,7 @@ service.getPageCount(url.parse(link)).then(count => {
 	productDetails.forEach(product => {
 		let out = []
 		for (let key of ssdKeys) {
-			out.push(format("\"%s\"", product[key]))	
+			out.push(format("\"%s\"", _.replace(product[key],'"', '')))
 		}
 		console.log(out.join(","))
 	})
