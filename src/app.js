@@ -36,12 +36,14 @@ service.getPageCount(url.parse(link)).then(count => {
 	for (let h of ssdKeys) {
 		header.push(format("\"%s\"", h))
 	}
+	header.push(format("\"%s\"", "Current Price"))
 	console.log(header.join(","))
 	productDetails.forEach(product => {
 		let out = []
 		for (let key of ssdKeys) {
 			out.push(format("\"%s\"", _.replace(product[key],'"', '')))
 		}
+		out.push(format("\"%s\"", _.replace(product["Current Price"],'"', '')))
 		console.log(out.join(","))
 	})
 })
